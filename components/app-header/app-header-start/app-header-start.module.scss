@@ -1,0 +1,15 @@
+.app-header-start {
+
+    &__search {
+        border: 2px solid rgba(255, 255, 255, 0.1);
+        border-radius: 50%;
+    }
+}
+
+.app-header-logo {
+    p {
+        font-family: 'FiraGO-Bold';
+        color: white;
+        text-transform: uppercase;
+    }
+}
